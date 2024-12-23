@@ -100,5 +100,5 @@ For queries or feedback, feel free to reach out:
 
 ---
 
-Thank you for checking out Noogle Drive! ⭐ Don't forget to star the repository if you find it helpful!
+Thank you for checking out InstaForce! ⭐ Don't forget to star the repository if you find it helpful!
 
