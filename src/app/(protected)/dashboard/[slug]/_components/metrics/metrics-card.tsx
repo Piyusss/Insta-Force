@@ -28,7 +28,7 @@ const MetricsCard = (props: Props) => {
             </div>
           ) : (
             <div className="flex flex-col">
-              <h2 className="text-3xl font-bold">DM's</h2>
+              <h2 className="text-3xl font-bold">DMs</h2>
               <p className="text-sm">On your account</p>
             </div>
           )}
