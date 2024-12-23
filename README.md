@@ -1,4 +1,4 @@
-# 🔥InstaForce👨🏻‍💻
+# 🪴InstaForce👨🏻‍💻
 A powerful Instagram automation and management platform with AI-powered capabilities
 
 ## 🚀 Features
